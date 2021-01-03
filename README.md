@@ -6,4 +6,4 @@ the more time you will give to the computer , the better it will understand .
 
 you can see the results in the smaple folder . 
 
-![alt text](https://github.com/[aksh]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/akshit6830/Mask-Detection-using-python/blob/main/Samples/mask on.png?raw=true)
