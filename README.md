@@ -15,6 +15,6 @@ without Mask :
 ![alt text](https://github.com/akshit6830/Mask-Detection-using-python/blob/main/Samples/no_mask.png?raw=true)
 
 Training graph :
-
+![alt text](https://github.com/akshit6830/Mask-Detection-using-python/blob/main/Samples/mask_training_graph.png?raw=true)
 
 I have also added the jupyter notebook files for comfort . 
