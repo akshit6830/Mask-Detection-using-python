@@ -6,4 +6,4 @@ the more time you will give to the computer , the better it will understand .
 
 you can see the results in the smaple folder . 
 
-![Alt text](Samples/mask on.png?raw=true "Title")
+![alt text](https://github.com/[aksh]/[reponame]/blob/[branch]/image.jpg?raw=true)
